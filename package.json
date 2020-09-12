@@ -1,0 +1,23 @@
+{
+  "name": "movie-postman",
+  "version": "1.0.0",
+  "description": "node api application to post movies to a json file using postman. Very simple as you can see",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkhazzam/post-movie-postman.git"
+  },
+  "author": "Alex Khazzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkhazzam/post-movie-postman/issues"
+  },
+  "homepage": "https://github.com/alexkhazzam/post-movie-postman#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
